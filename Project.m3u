@@ -1520,26 +1520,26 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=20179&extens
 #EXTINF:-1 group-title="SPORTS THẾ GIỚI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/1920px-ITV3_logo_2022.svg.png" ,3.ITV 3 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=20181&extension=ts&play_token=hbffuurR3H
 
-#EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/800px-Manchester_City_FC_badge.svg.png" ,1.Manchester City FHD
+#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/800px-Manchester_City_FC_badge.svg.png" ,1.Manchester City FHD
 http://103.76.130.33:13107/play/AO-exgRlEK3XJoH1rBboJUz0-0F9ZlGcyIKy3MIX7-VkSRFzbaxaVFzEoJfnWOA7aKEIYjiQ2AuG827J9pHCfmaMNCXe88JBw2QibNpyXHo?ext=.ts
-#EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/800px-Manchester_City_FC_badge.svg.png" ,2.Manchester City FHD
+#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/800px-Manchester_City_FC_badge.svg.png" ,2.Manchester City FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=713441&extension=ts&play_token=nFRC4rvIed
 
-#EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/800px-Manchester_United_FC_crest.svg.png" ,1.Manchester United FHD
+#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/800px-Manchester_United_FC_crest.svg.png" ,1.Manchester United FHD
 http://2hubs.ddns.net:25461/live/sharedspp/EbUQ2qWhya/59933.m3u8
-#EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/800px-Manchester_United_FC_crest.svg.png" ,2.Manchester United FHD
+#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/800px-Manchester_United_FC_crest.svg.png" ,2.Manchester United FHD
 http://cdnnewott.com:80/77F3A5988FD7D50/j0epUW7Lhr/17278
-#EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/800px-Liverpool_FC.svg.png" ,1.Liverpool FHD
+#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/800px-Liverpool_FC.svg.png" ,1.Liverpool FHD
 http://2hubs.ddns.net:25461/live/sharedspp/EbUQ2qWhya/61467.m3u8
-#EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/800px-Liverpool_FC.svg.png" ,2.Liverpool FHD
+#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/800px-Liverpool_FC.svg.png" ,2.Liverpool FHD
 http://cdnnewott.com:80/77F3A5988FD7D50/j0epUW7Lhr/150244
-#EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/800px-Arsenal_FC.svg.png" ,1.Asenal FHD
+#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/800px-Arsenal_FC.svg.png" ,1.Asenal FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=713430&extension=ts&play_token=3DrP76Afz7
-#EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1017px-Newcastle_United_Logo.svg.png" ,1.Newcastle United FHD
+#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1017px-Newcastle_United_Logo.svg.png" ,1.Newcastle United FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=713443&extension=ts&play_token=YAb8JqxTGI
-#EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/5c/Chelsea_crest.svg/1024px-Chelsea_crest.svg.png" ,1.Chelsea FHD
+#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/5c/Chelsea_crest.svg/1024px-Chelsea_crest.svg.png" ,1.Chelsea FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=713435&extension=ts&play_token=oNGxY3E2aO
-#EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/fd/Brighton_%26_Hove_Albion_logo.svg/1024px-Brighton_%26_Hove_Albion_logo.svg.png" ,1.Brighton&Hove Albion FHD
+#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/fd/Brighton_%26_Hove_Albion_logo.svg/1024px-Brighton_%26_Hove_Albion_logo.svg.png" ,1.Brighton&Hove Albion FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=713433&extension=ts&play_token=uqEGroGVab
 
 #EXTINF:-1 group-title="SPORTS THẾ GIỚI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Sky_Sports_F1_HD.png" ,1.Sky Sport F1 FHD
