@@ -738,8 +738,10 @@ http://vips-livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="bbcworldnews" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_bbc-news_156325644439.png" group-title="QUỐC TẾ",BBC World News
-#EXTVLCOPT:http-user-agent=http://sctvonline.vn
-https://e4.endpoint.cdn.sctvonline.vn/hls/bbc/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=521
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="bbclifestyle" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg" group-title="QUỐC TẾ",BBC Lifestyle 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -748,18 +750,18 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/bbc/index.m3u8?kiptv|Referer=http://sc
 https://s7772.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="abcaustralia" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_australia-plus_153051623532.png" group-title="QUỐC TẾ",Australia Plus
-#EXTVLCOPT:http-user-agent="phaptx5"
-https://e4.endpoint.cdn.sctvonline.vn/hls/abc/index.m3u8?kiptvkiptv|Referer=http://sctvonline.vn/
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=598
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="discoveryhd" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_discovery_157259072379.png" group-title="QUỐC TẾ",Discovery HD
-#EXTVLCOPT:http-user-agent=http://sctvonline.vn
-https://e4.endpoint.cdn.sctvonline.vn/hls/discovery/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+http://sg.tinchuanchuaanh.com:8080/DISCOVERY_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="discoveryasiahd" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_discovery-asia_152332466749.png" group-title="QUỐC TẾ",Discovery Asia HD
-https://e4.endpoint.cdn.sctvonline.vn/hls/asia/index.m3u8?|Referer=http://sctvonline.vn/
+http://sg.tinchuanchuaanh.com:8080/DISCOVERY_ASIA_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="animalhd" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_animal-planet_156335404347.jpg" group-title="QUỐC TẾ",
-Planet HD
+#EXTINF:-1 tvg-id="animalhd" tvg-logo="http://static.fptplay.net/static/img/share/channels/icon_channel_animal-planet_156335404347.jpg" group-title="QUỐC TẾ",Planet HD
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referer=http://sctvonline.vn/
 https://e4.endpoint.cdn.sctvonline.vn/hls/animalplanet/index.m3u8|Referer=https://sctvonline.vn/
@@ -768,7 +770,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/animalplanet/index.m3u8|Referer=https:
 http://vips-livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" tvg-logo="http://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/6_60ce711b.jpg" group-title="QUỐC TẾ",Box Movie
-http://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://code.vthanhtivi.pw/getlink/cliptv/822/chunklist_b5128000.m3u8
 
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="QUỐC TẾ" tvg-logo="http://i.ibb.co/M7pxv8c/ta-i-xu-ng.jpg",Hollywood Classic
 http://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
@@ -780,7 +782,7 @@ http://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sct
 http://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="drfithd" tvg-logo="http://i.ibb.co/0qh3zNs/drfit.jpg" group-title="QUỐC TẾ",Dr.Fit HD
-http://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://code.vthanhtivi.pw/getlink/cliptv/drfit-hd/chunklist_b5128000.m3u8
 
 #EXTINF:-1 tvg-logo="http://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/10_4606159a.jpg" group-title="QUỐC TẾ",CNA HD
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?cc
@@ -804,13 +806,10 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 https://code.vthanhtivi.pw/getlink/cliptv/dmax/chunklist_b5128000.m3u8
 
 #EXTINF:-1 tvg-id="historyhd" group-title="QUỐC TẾ" tvg-logo="https://www.historyplay.tv/images/logo.png?_v=1.5.90",History
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/history.php
-https://vstv.broadpeak-aas.com/bpk-tv/prod_history/default/i.mpd
+http://sg.tinchuanchuaanh.com:8080/HISTORY_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="animalhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/gjfHJCH/Animal-Planet.png",Animal Planet
-#EXTVLCOPT:http-user-agent="KIIP"
-https://e4.endpoint.cdn.sctvonline.vn/hls/animalplanet/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+http://sg.tinchuanchuaanh.com:8080/ANIMAL_PLANET_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="tlchd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/5hZzB2C/TLC.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1500.stream/chunks_dvr_range-${start}-10800.m3u8, TLC
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -846,6 +845,11 @@ http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93030.ts
 
 #EXTINF:-1 group-title="QUỐC TẾ",Net Geo wild
 https://inwild-samsung-uk.amagi.tv/playlist720-p.m3u8
+
+#EXTINF:-1 tvg-id="ngchd" group-title="QUỐC TẾ" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png", National Geographic HD
+http://live.vthanhtivi.pw/natgeo
+#EXTINF:-1 tvg-id="ngwhd" group-title="QUỐC TẾ" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png", Nat Geo Wild HD
+http://live.vthanhtivi.pw/ngw
 
 #EXTINF:-1 group-title="QUỐC TẾ",Xlpore English(BD)
 http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
@@ -952,9 +956,9 @@ http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=411334&extensi
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyRR5S57ywKD0_Yno5Yi42bnte2SVBcXj2fg&usqp=CAU",Spiegen Geschichte DE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=411476&extension=ts&play_token=
-#EXTINF:-1 group-title= "QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/1024px-CNN-International-Logo.svg.png" ,1.CNN FHD
+#EXTINF:-1 group-title= "QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/1024px-CNN-International-Logo.svg.png" ,CNN FHD
 http://104.243.32.68:25461/live/unrealKD/p73rmm3dn4/376889.ts
-#EXTINF:-1 group-title= "QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1280px-BBC_News_2022_%28Alt%29.svg.png" ,1.BBC News FHD
+#EXTINF:-1 group-title= "QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1280px-BBC_News_2022_%28Alt%29.svg.png" ,BBC News FHD
 http://104.243.32.68:25461/live/unrealKD/p73rmm3dn4/16601.ts
 
 
