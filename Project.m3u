@@ -658,8 +658,7 @@ http://live.vthanhtivi.pw/cinemax
 http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102358.ts
 
 #EXTINF:-1 tvg-id="axnhd" tvg-logo="http://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg" group-title="QUỐC TẾ",AXN FHD
-#EXTVLCOPT:http-referer=http://sctvonline.vn
-https://e4.endpoint.cdn.sctvonline.vn/hls/axn/index.m3u8|Referer=http://sctvonline.vn
+http://sg.tinchuanchuaanh.com:8080/AXN_HD/index.m3u8
 
 #EXTINF:0 tvg-id="AXN" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/vHCtNmb/AXN.png" ,AXN FHD 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
