@@ -1,0 +1,22 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+ NoDRM" tvg-logo="https://i.ibb.co/HB3gXH3/005-KPLUS-KIDS-HD.jpg",K+KIDS FHD
+http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UoV5xpvhATik9MxS30MbZHo/m3u8
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+ NoDRM" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_k1_163302405026.jpg",K + CINE FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UsjgB5aa27hGeyLrtm8iFPg/m3u8
+#http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfmgy7Nd0u0pYnu0-bIPoLpx/m3u8
+
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kns_163302405572.jpg" group-title="K+ NoDRM", K+LIFE FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7Usol2aJMUP074Y56-_ggO0U/m3u8
+#http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UgcPGlnD-MJPZMusJsDI3Ks/m3u8
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+ NoDRM" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_163302406207.jpg",K+SPORT1 FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://103.75.186.169:80/play/BdrytHkMhSioDCl2Srz0zk-BwM7YJFVOSWiYGHFoXDQ/m3u8
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+ NoDRM" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_163302406622.jpg", K+SPORT2 FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://103.75.186.169:80/play/BdrytHkMhSioDCl2Srz0zn3CsNE4Rq793x4_NnBJHO4/m3u8
