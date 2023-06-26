@@ -227,10 +227,11 @@ https://akavnpt.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd?maxrate=3000
 https://akavnpt.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd?maxrate=3000000
 
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🅺+SPORT" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_k1_163302405026.jpg", K+CINE VTVCAB
+#EXTINF:-1 tvg-id="kcinehd" group-title="🅺+SPORT" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
+http://103.77.175.153:80/play/PlJVLeh3OFlevh__G-rmB3i5YWYmobdPd9-ZtE-spu7ZfGmordpk2kOkHKuWOCU6/m3u8
 
-
-#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kns_163302405572.jpg" group-title="🅺+SPORT", K+LIFE VTVCAB
+#EXTINF:-1 tvg-id="klifehd" group-title="🅺+SPORT" tvg-logo="http://logo.vagroup.pw/96.png", K+Life HD
+http://103.77.175.153:80/play/PlJVLeh3OFlevh__G-rmBwbhFPXVtB6OkHW0a1ew2tktj9ES2NLlub8iBdrZwu_m/m3u8
 
 
 
