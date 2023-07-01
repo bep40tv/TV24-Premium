@@ -7,7 +7,8 @@
 https://happykids-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="*NHÓM TELEGRAM*" tvg-logo="https://i.imgur.com/2mZjKbS.jpg" tvg-id="", https://t.me/TV24sharing
-https://raw.githubusercontent.com/Televison/TV24-Premium/main/489F0B87-764C-45D6-92CE-8DEE2B17BD6C.jpeg?token=GHSAT0AAAAAACDHV6ZEVITURGU6WFWY2TV6ZE7ZGZA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://media.kythuatvov.vn:1936/live/VOVGTHN.sdp/playlist.m3u8
 ---------VTV---------
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="http://img.vnmedia.xyz/logo/vtv1hd.jpg" group-title="VTV",VTV1 FHD
