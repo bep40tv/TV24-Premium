@@ -6,7 +6,8 @@
 #EXTINF:-1 group-title="***ỦNG HỘ TÔI***" tvg-logo="https://i.imgur.com/2mZjKbS.jpg" tvg-id="",MOMO/ZALO-PAY: 0898.580.569
 https://happykids-vizio.amagi.tv/playlist.m3u8
 
-
+#EXTINF:-1 group-title="*NHÓM TELEGRAM*" tvg-logo="https://i.imgur.com/2mZjKbS.jpg" tvg-id="", https://t.me/TV24sharing
+http://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/playlist.m3u8
 ---------VTV---------
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="http://img.vnmedia.xyz/logo/vtv1hd.jpg" group-title="VTV",VTV1 FHD
