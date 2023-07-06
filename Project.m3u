@@ -7,6 +7,10 @@
 https://happykids-vizio.amagi.tv/playlist.m3u8
 
 
+#EXTINF:-1 group-title="CHó CƯNG" tvg-logo="https://raw.githubusercontent.com/Televison/TV24-Premium/main/Pitbull.PNG" tvg-id="",Pitbull-NGUYỄN THANH TÙNG
+https://happykids-vizio.amagi.tv/playlist.m3u8
+
+
 ---------VTV---------
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="http://img.vnmedia.xyz/logo/vtv1hd.jpg" group-title="VTV",VTV1 FHD
