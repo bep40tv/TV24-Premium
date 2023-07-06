@@ -1,13 +1,11 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 
 
---------INTRO-------
+--------DIỆT CHÓ DẠI-------
 
 #EXTINF:-1 group-title="CHÓ CƯNG CỦA TÔI" tvg-logo="https://raw.githubusercontent.com/Televison/TV24-Premium/main/Pitbull.PNG" tvg-id="",Pitbull-NGUYEN THANH TUNG
 https://rpn1.bozztv.com/36bay2/gusa-mwg/mono.m3u8
 
-#EXTINF:-1 group-title="*KHO 20.000 PHIM*" tvg-logo="https://i.imgur.com/2mZjKbS.jpg" tvg-id="",ZALO-PAY: 0898.580.569
-https://happykids-vizio.amagi.tv/playlist.m3u8
 
 ---------VTV---------
 
@@ -139,7 +137,9 @@ https://dl.dropboxusercontent.com/s/tczgd8i2zcv6erw/getlink/mytv/224/hd.m3u8?id=
 
 
 ------------------K+SPORT---------------------
-										ㅤ          
+
+
+ㅤ          
 #EXTINF:-1 tvg-id="klive1hd" group-title="🅺+SPORT" tvg-logo="https://i.ibb.co/qL6Y117/live1.jpg", K+LIVE 1 (Dự Phòng)
 
 
@@ -331,6 +331,8 @@ http://s71133.cdn.mytvnet.vn/pkg20/__cl/highest/KSPORT1_HD/manifest.mpd?prefix=1
 #EXTINF:-1  tvg-id="klive3hd" group-title="🅺+SPORT" tvg-logo="https://raw.githubusercontent.com/Hannstcott/SunshineTr/main/logo%20k%2B/MyK%252B_Live_3.png",K+ LIVE 3 (Dự Phòng 2)
 
 
+#EXTINF:-1 group-title="*KHO 20.000 PHIM*" tvg-logo="https://i.imgur.com/2mZjKbS.jpg" tvg-id="",ZALO-PAY: 0898.580.569
+https://happykids-vizio.amagi.tv/playlist.m3u8
 
 -------------------VTVCab---------------------
 
